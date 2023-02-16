@@ -27,12 +27,9 @@ int main() {
 
     int64_t nanoseconds;
     for (size_t i = 0; i < sorts.size(); ++i) {
-//        std::cout << "I'm started " + sorts_names[i] + " testing:" << std::endl;
         for (auto size : SMALL_SIZES) {
             nanoseconds = 0;
-//            std::cout << "on " << size << " size:\n";
             for (size_t j = 0; j < origins.size(); ++j) {
-//                std::cout << "on " << j << " type: ";
                 for (int k = 0; k < TESTS_AMOUNT; ++k) {
                     std::copy(origins[j].begin(), origins[j].begin() + size, std::back_inserter(working_array));
 
@@ -58,9 +55,7 @@ int main() {
 
         for (auto size : LARGE_SIZES) {
             nanoseconds = 0;
-//            std::cout << "on " << size << " size:\n";
             for (size_t j = 0; j < origins.size(); ++j) {
-//                std::cout << "on " << j << " type: ";
                 for (int k = 0; k < TESTS_AMOUNT; ++k) {
                     std::copy(origins[j].begin(), origins[j].begin() + size, std::back_inserter(working_array));
 
