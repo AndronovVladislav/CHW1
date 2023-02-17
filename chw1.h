@@ -1,6 +1,6 @@
 #ifndef CHW1_CHW1_H
 #define CHW1_CHW1_H
-#define TESTS_AMOUNT 1
+#define TESTS_AMOUNT 100
 #define SMALL_SIZES { 50, 100, 150, 200, 250, 300 }
 #define LARGE_SIZES { 100, 200, 300, 400, 500, 600, 700, 800, 900,     \
                       1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700,  \
@@ -16,26 +16,7 @@
 #include <random>
 #include <string>
 #include <vector>
-
-class DatasetGenerator {
-public:
-    static std::vector<int> generateRandomArray(int min, int max);
-    static std::vector<int> almostSortedArray(int min, int max);
-    static std::vector<int> reversedSortedArray(int min, int max);
-};
-
-struct params {
-    void (*sort)(std::vector<int>&, size_t);
-    std::vector<int>& array;
-    int n;
-};
-
-struct result {
-    int64_t n;
-};
-
-typedef struct params params;
-typedef struct result result;
+#include <unordered_map>
 
 void selectionSort(std::vector<int> &array, size_t n);
 
@@ -67,9 +48,14 @@ void heapSort(std::vector<int> &array, size_t n);
 void shellShellSort(std::vector<int> &array, size_t n);
 void shellCiuraSort(std::vector<int> &array, size_t n);
 
-bool checker(std::vector<int> &array);
 void outputArray(std::vector<int> &array);
 
-void *universalInvoker(void *sort);
+class Utils {
+public:
+    static std::vector<int> generateRandomArray(int min, int max);
+    static std::vector<int> almostSortedArray(int min, int max);
+    static std::vector<int> reversedSortedArray(int min, int max);
+    static bool checker(std::vector<int> &array);
+};
 
 #endif //CHW1_CHW1_H

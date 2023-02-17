@@ -1,6 +1,6 @@
 #include "chw1.h"
 
-std::vector<int> DatasetGenerator::generateRandomArray(int min, int max) {
+std::vector<int> Utils::generateRandomArray(int min, int max) {
     std::mt19937 generator(time(nullptr));
     std::uniform_int_distribution<> randint(min, max);
     std::vector<int> result(4100);
@@ -12,7 +12,7 @@ std::vector<int> DatasetGenerator::generateRandomArray(int min, int max) {
     return result;
 }
 
-std::vector<int> DatasetGenerator::almostSortedArray(int min, int max) {
+std::vector<int> Utils::almostSortedArray(int min, int max) {
     std::mt19937 generator(time(nullptr));
     std::uniform_int_distribution<> randint(min, max);
     std::vector<int> result(4100);
@@ -31,10 +31,25 @@ std::vector<int> DatasetGenerator::almostSortedArray(int min, int max) {
     return result;
 }
 
-std::vector<int> DatasetGenerator::reversedSortedArray(int min, int max) {
+std::vector<int> Utils::reversedSortedArray(int min, int max) {
     std::vector<int> result(4100);
     for (int i = max; i > min; --i) {
         result[4100 - i] = i;
     }
     return result;
+}
+
+bool Utils::checker(std::vector<int> &array) {
+    for (int i = 1; i < array.size(); ++i) {
+        if (array[i] < array[i - 1]) {
+            return false;
+        }
+    }
+    return true;
+}
+
+void outputArray(std::vector<int> &array) {
+    for (auto &elem : array) {
+        std::cout << elem << " ";
+    }
 }
