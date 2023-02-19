@@ -19,36 +19,43 @@
 #include <unordered_map>
 
 void selectionSort(std::vector<int> &array, size_t n);
+void selectionSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
 void bubbleSort(std::vector<int> &array, size_t n);
-void bubbleSortIverson1(std::vector<int> &array, size_t n);
-void bubbleSortIverson1_2(std::vector<int> &array, size_t n);
+void bubbleSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
+
+void bubbleSortAiverson1(std::vector<int> &array, size_t n);
+void bubbleSortAiverson1Operations(std::vector<int> &array, size_t n, int64_t &operations);
+
+void bubbleSortAiversonAll(std::vector<int> &array, size_t n);
+void bubbleSortAiversonAllOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
 void insertionSort(std::vector<int> &array, size_t n);
+void insertionSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
+
 void binaryInsertionSort(std::vector<int> &array, size_t n);
+void binaryInsertionSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
 void stableCountingSort(std::vector<int> &array, size_t n);
+void stableCountingSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
-int digit(int number, int index);
 void radixSort(std::vector<int> &array, size_t n);
+void radixSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
-void merge(std::vector<int>::iterator &left, std::vector<int>::iterator &middle,
-           std::vector<int>::iterator &right);
-void mergeSort(std::vector<int> &array, size_t l, size_t r);
 void mergeSort(std::vector<int> &array, size_t n);
+void mergeSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
-int partition(std::vector<int> &array, int l, int r);
-void quickSort(std::vector<int> &array, int l, int r);
 void quickSort(std::vector<int> &array, size_t n);
+void quickSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
-void siftDown(std::vector<int> &array, int i, int heapSize);
-void buildHeap(std::vector<int> &array);
 void heapSort(std::vector<int> &array, size_t n);
+void heapSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
 void shellShellSort(std::vector<int> &array, size_t n);
-void shellCiuraSort(std::vector<int> &array, size_t n);
+void shellShellSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
-void outputArray(std::vector<int> &array);
+void shellCiuraSort(std::vector<int> &array, size_t n);
+void shellCiuraSortOperations(std::vector<int> &array, size_t n, int64_t &operations);
 
 class Utils {
 public:
@@ -56,6 +63,8 @@ public:
     static std::vector<int> almostSortedArray(int min, int max);
     static std::vector<int> reversedSortedArray(int min, int max);
     static bool checker(std::vector<int> &array);
+    static std::string getArrayTypename(size_t &array_type);
+    static void outputArray(std::vector<int> &array);
 };
 
 #endif //CHW1_CHW1_H

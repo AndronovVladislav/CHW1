@@ -48,8 +48,24 @@ bool Utils::checker(std::vector<int> &array) {
     return true;
 }
 
-void outputArray(std::vector<int> &array) {
+std::string Utils::getArrayTypename(size_t &array_type) {
+    switch (array_type) {
+        case 0:
+            return "Random(0-5)";
+        case 1:
+            return "Random(0-4000)";
+        case 2:
+            return "AlmostSorted";
+        case 3:
+            return "ReversedSorted";
+        default:
+            return "";
+    }
+}
+
+void Utils::outputArray(std::vector<int> &array) {
     for (auto &elem : array) {
         std::cout << elem << " ";
     }
+    std::cout << std::endl;
 }
