@@ -82,52 +82,49 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/DatasetGenerator.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/BinaryInsertionSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/binaryInsertionSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiverson1.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiversonAll.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1_2.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/HeapSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/heapSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/InsertionSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/insertionSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/MergeSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/mergeSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/QuickSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/quickSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/RadixSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/radixSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/SelectionSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/selectionSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/ShellCiuraSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/shellCiuraSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/ShellShellSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/shellShellSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/StableCountingSort.cpp">
 			<Option target="CHW1"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/stableCountingSort.cpp">
+		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/Utils.cpp">
 			<Option target="CHW1"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/tester.cpp">
-			<Option target="CHW1"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/utils.cpp">
 			<Option target="CHW1"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/Vlad/CLionProjects/CHW1/CMakeLists.txt">

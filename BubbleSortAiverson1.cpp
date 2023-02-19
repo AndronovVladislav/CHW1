@@ -5,16 +5,18 @@ void bubbleSortAiverson1Operations(std::vector<int> &array, size_t n, int64_t &o
     int i = 0;
     bool t = true;
     while (t) {
-        t = false; ++operations;
+        t = false;
+        operations += 2; // 1 из цикла, 1 присваивание
         for (int j = 0; j < n - i - 1; ++j) {
-            ++operations;
+            operations += 9; // 3 из цикла, 1 сравнение, 2 обращение, 3 арифметика
             if (array[j] > array[j + 1]) {
                 std::swap(array[j], array[j + 1]);
                 t = true;
-                operations += 2;
+                operations += 5;
             }
         }
-        ++i; ++operations;
+        ++i;
+        ++operations;
     }
 }
 

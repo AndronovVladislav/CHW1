@@ -70,242 +70,227 @@ CMakeFiles/CHW1.dir/tester.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/tester.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/tester.cpp -o CMakeFiles/CHW1.dir/tester.cpp.s
 
-CMakeFiles/CHW1.dir/bubbleSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/bubbleSort.cpp.o: ../bubbleSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CHW1.dir/bubbleSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/bubbleSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSort.cpp
+CMakeFiles/CHW1.dir/BubbleSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/BubbleSort.cpp.o: ../BubbleSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CHW1.dir/BubbleSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/BubbleSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSort.cpp
 
-CMakeFiles/CHW1.dir/bubbleSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/bubbleSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSort.cpp > CMakeFiles/CHW1.dir/bubbleSort.cpp.i
+CMakeFiles/CHW1.dir/BubbleSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/BubbleSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSort.cpp > CMakeFiles/CHW1.dir/BubbleSort.cpp.i
 
-CMakeFiles/CHW1.dir/bubbleSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/bubbleSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSort.cpp -o CMakeFiles/CHW1.dir/bubbleSort.cpp.s
+CMakeFiles/CHW1.dir/BubbleSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/BubbleSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSort.cpp -o CMakeFiles/CHW1.dir/BubbleSort.cpp.s
 
-CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o: ../bubbleSortIverson1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1.cpp
+CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o: ../BubbleSortAiverson1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiverson1.cpp
 
-CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1.cpp > CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.i
+CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiverson1.cpp > CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.i
 
-CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1.cpp -o CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.s
+CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiverson1.cpp -o CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.s
 
-CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o: ../bubbleSortIverson1_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1_2.cpp
+CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o: ../BubbleSortAiversonAll.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiversonAll.cpp
 
-CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1_2.cpp > CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.i
+CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiversonAll.cpp > CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.i
 
-CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1_2.cpp -o CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.s
+CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiversonAll.cpp -o CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.s
 
-CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o: ../DatasetGenerator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/DatasetGenerator.cpp
+CMakeFiles/CHW1.dir/HeapSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/HeapSort.cpp.o: ../HeapSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CHW1.dir/HeapSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/HeapSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/HeapSort.cpp
 
-CMakeFiles/CHW1.dir/DatasetGenerator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/DatasetGenerator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/DatasetGenerator.cpp > CMakeFiles/CHW1.dir/DatasetGenerator.cpp.i
+CMakeFiles/CHW1.dir/HeapSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/HeapSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/HeapSort.cpp > CMakeFiles/CHW1.dir/HeapSort.cpp.i
 
-CMakeFiles/CHW1.dir/DatasetGenerator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/DatasetGenerator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/DatasetGenerator.cpp -o CMakeFiles/CHW1.dir/DatasetGenerator.cpp.s
+CMakeFiles/CHW1.dir/HeapSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/HeapSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/HeapSort.cpp -o CMakeFiles/CHW1.dir/HeapSort.cpp.s
 
-CMakeFiles/CHW1.dir/heapSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/heapSort.cpp.o: ../heapSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CHW1.dir/heapSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/heapSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/heapSort.cpp
+CMakeFiles/CHW1.dir/MergeSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/MergeSort.cpp.o: ../MergeSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CHW1.dir/MergeSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/MergeSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/MergeSort.cpp
 
-CMakeFiles/CHW1.dir/heapSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/heapSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/heapSort.cpp > CMakeFiles/CHW1.dir/heapSort.cpp.i
+CMakeFiles/CHW1.dir/MergeSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/MergeSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/MergeSort.cpp > CMakeFiles/CHW1.dir/MergeSort.cpp.i
 
-CMakeFiles/CHW1.dir/heapSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/heapSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/heapSort.cpp -o CMakeFiles/CHW1.dir/heapSort.cpp.s
+CMakeFiles/CHW1.dir/MergeSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/MergeSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/MergeSort.cpp -o CMakeFiles/CHW1.dir/MergeSort.cpp.s
 
-CMakeFiles/CHW1.dir/mergeSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/mergeSort.cpp.o: ../mergeSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CHW1.dir/mergeSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/mergeSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/mergeSort.cpp
+CMakeFiles/CHW1.dir/QuickSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/QuickSort.cpp.o: ../QuickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CHW1.dir/QuickSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/QuickSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/QuickSort.cpp
 
-CMakeFiles/CHW1.dir/mergeSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/mergeSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/mergeSort.cpp > CMakeFiles/CHW1.dir/mergeSort.cpp.i
+CMakeFiles/CHW1.dir/QuickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/QuickSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/QuickSort.cpp > CMakeFiles/CHW1.dir/QuickSort.cpp.i
 
-CMakeFiles/CHW1.dir/mergeSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/mergeSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/mergeSort.cpp -o CMakeFiles/CHW1.dir/mergeSort.cpp.s
+CMakeFiles/CHW1.dir/QuickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/QuickSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/QuickSort.cpp -o CMakeFiles/CHW1.dir/QuickSort.cpp.s
 
-CMakeFiles/CHW1.dir/quickSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/quickSort.cpp.o: ../quickSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CHW1.dir/quickSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/quickSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/quickSort.cpp
+CMakeFiles/CHW1.dir/RadixSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/RadixSort.cpp.o: ../RadixSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CHW1.dir/RadixSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/RadixSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/RadixSort.cpp
 
-CMakeFiles/CHW1.dir/quickSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/quickSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/quickSort.cpp > CMakeFiles/CHW1.dir/quickSort.cpp.i
+CMakeFiles/CHW1.dir/RadixSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/RadixSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/RadixSort.cpp > CMakeFiles/CHW1.dir/RadixSort.cpp.i
 
-CMakeFiles/CHW1.dir/quickSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/quickSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/quickSort.cpp -o CMakeFiles/CHW1.dir/quickSort.cpp.s
+CMakeFiles/CHW1.dir/RadixSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/RadixSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/RadixSort.cpp -o CMakeFiles/CHW1.dir/RadixSort.cpp.s
 
-CMakeFiles/CHW1.dir/radixSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/radixSort.cpp.o: ../radixSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CHW1.dir/radixSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/radixSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/radixSort.cpp
+CMakeFiles/CHW1.dir/SelectionSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/SelectionSort.cpp.o: ../SelectionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CHW1.dir/SelectionSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/SelectionSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/SelectionSort.cpp
 
-CMakeFiles/CHW1.dir/radixSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/radixSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/radixSort.cpp > CMakeFiles/CHW1.dir/radixSort.cpp.i
+CMakeFiles/CHW1.dir/SelectionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/SelectionSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/SelectionSort.cpp > CMakeFiles/CHW1.dir/SelectionSort.cpp.i
 
-CMakeFiles/CHW1.dir/radixSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/radixSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/radixSort.cpp -o CMakeFiles/CHW1.dir/radixSort.cpp.s
+CMakeFiles/CHW1.dir/SelectionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/SelectionSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/SelectionSort.cpp -o CMakeFiles/CHW1.dir/SelectionSort.cpp.s
 
-CMakeFiles/CHW1.dir/selectionSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/selectionSort.cpp.o: ../selectionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CHW1.dir/selectionSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/selectionSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/selectionSort.cpp
+CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o: ../ShellCiuraSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/ShellCiuraSort.cpp
 
-CMakeFiles/CHW1.dir/selectionSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/selectionSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/selectionSort.cpp > CMakeFiles/CHW1.dir/selectionSort.cpp.i
+CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/ShellCiuraSort.cpp > CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.i
 
-CMakeFiles/CHW1.dir/selectionSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/selectionSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/selectionSort.cpp -o CMakeFiles/CHW1.dir/selectionSort.cpp.s
+CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/ShellCiuraSort.cpp -o CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.s
 
-CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o: ../shellCiuraSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/shellCiuraSort.cpp
+CMakeFiles/CHW1.dir/ShellShellSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/ShellShellSort.cpp.o: ../ShellShellSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CHW1.dir/ShellShellSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/ShellShellSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/ShellShellSort.cpp
 
-CMakeFiles/CHW1.dir/shellCiuraSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/shellCiuraSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/shellCiuraSort.cpp > CMakeFiles/CHW1.dir/shellCiuraSort.cpp.i
+CMakeFiles/CHW1.dir/ShellShellSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/ShellShellSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/ShellShellSort.cpp > CMakeFiles/CHW1.dir/ShellShellSort.cpp.i
 
-CMakeFiles/CHW1.dir/shellCiuraSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/shellCiuraSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/shellCiuraSort.cpp -o CMakeFiles/CHW1.dir/shellCiuraSort.cpp.s
+CMakeFiles/CHW1.dir/ShellShellSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/ShellShellSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/ShellShellSort.cpp -o CMakeFiles/CHW1.dir/ShellShellSort.cpp.s
 
-CMakeFiles/CHW1.dir/shellShellSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/shellShellSort.cpp.o: ../shellShellSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CHW1.dir/shellShellSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/shellShellSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/shellShellSort.cpp
+CMakeFiles/CHW1.dir/StableCountingSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/StableCountingSort.cpp.o: ../StableCountingSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CHW1.dir/StableCountingSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/StableCountingSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/StableCountingSort.cpp
 
-CMakeFiles/CHW1.dir/shellShellSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/shellShellSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/shellShellSort.cpp > CMakeFiles/CHW1.dir/shellShellSort.cpp.i
+CMakeFiles/CHW1.dir/StableCountingSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/StableCountingSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/StableCountingSort.cpp > CMakeFiles/CHW1.dir/StableCountingSort.cpp.i
 
-CMakeFiles/CHW1.dir/shellShellSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/shellShellSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/shellShellSort.cpp -o CMakeFiles/CHW1.dir/shellShellSort.cpp.s
+CMakeFiles/CHW1.dir/StableCountingSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/StableCountingSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/StableCountingSort.cpp -o CMakeFiles/CHW1.dir/StableCountingSort.cpp.s
 
-CMakeFiles/CHW1.dir/stableCountingSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/stableCountingSort.cpp.o: ../stableCountingSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CHW1.dir/stableCountingSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/stableCountingSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/stableCountingSort.cpp
+CMakeFiles/CHW1.dir/InsertionSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/InsertionSort.cpp.o: ../InsertionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CHW1.dir/InsertionSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/InsertionSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/InsertionSort.cpp
 
-CMakeFiles/CHW1.dir/stableCountingSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/stableCountingSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/stableCountingSort.cpp > CMakeFiles/CHW1.dir/stableCountingSort.cpp.i
+CMakeFiles/CHW1.dir/InsertionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/InsertionSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/InsertionSort.cpp > CMakeFiles/CHW1.dir/InsertionSort.cpp.i
 
-CMakeFiles/CHW1.dir/stableCountingSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/stableCountingSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/stableCountingSort.cpp -o CMakeFiles/CHW1.dir/stableCountingSort.cpp.s
+CMakeFiles/CHW1.dir/InsertionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/InsertionSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/InsertionSort.cpp -o CMakeFiles/CHW1.dir/InsertionSort.cpp.s
 
-CMakeFiles/CHW1.dir/insertionSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/insertionSort.cpp.o: ../insertionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CHW1.dir/insertionSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/insertionSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/insertionSort.cpp
+CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o: ../BinaryInsertionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/BinaryInsertionSort.cpp
 
-CMakeFiles/CHW1.dir/insertionSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/insertionSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/insertionSort.cpp > CMakeFiles/CHW1.dir/insertionSort.cpp.i
+CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/BinaryInsertionSort.cpp > CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.i
 
-CMakeFiles/CHW1.dir/insertionSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/insertionSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/insertionSort.cpp -o CMakeFiles/CHW1.dir/insertionSort.cpp.s
+CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/BinaryInsertionSort.cpp -o CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.s
 
-CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o: ../binaryInsertionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/binaryInsertionSort.cpp
+CMakeFiles/CHW1.dir/Utils.cpp.o: CMakeFiles/CHW1.dir/flags.make
+CMakeFiles/CHW1.dir/Utils.cpp.o: ../Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CHW1.dir/Utils.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/Utils.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/Utils.cpp
 
-CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/binaryInsertionSort.cpp > CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.i
+CMakeFiles/CHW1.dir/Utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/Utils.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/Utils.cpp > CMakeFiles/CHW1.dir/Utils.cpp.i
 
-CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/binaryInsertionSort.cpp -o CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.s
-
-CMakeFiles/CHW1.dir/utils.cpp.o: CMakeFiles/CHW1.dir/flags.make
-CMakeFiles/CHW1.dir/utils.cpp.o: ../utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CHW1.dir/utils.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CHW1.dir/utils.cpp.o -c /mnt/c/Users/Vlad/CLionProjects/CHW1/utils.cpp
-
-CMakeFiles/CHW1.dir/utils.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CHW1.dir/utils.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Vlad/CLionProjects/CHW1/utils.cpp > CMakeFiles/CHW1.dir/utils.cpp.i
-
-CMakeFiles/CHW1.dir/utils.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/utils.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/utils.cpp -o CMakeFiles/CHW1.dir/utils.cpp.s
+CMakeFiles/CHW1.dir/Utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CHW1.dir/Utils.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Vlad/CLionProjects/CHW1/Utils.cpp -o CMakeFiles/CHW1.dir/Utils.cpp.s
 
 # Object files for target CHW1
 CHW1_OBJECTS = \
 "CMakeFiles/CHW1.dir/tester.cpp.o" \
-"CMakeFiles/CHW1.dir/bubbleSort.cpp.o" \
-"CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o" \
-"CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o" \
-"CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o" \
-"CMakeFiles/CHW1.dir/heapSort.cpp.o" \
-"CMakeFiles/CHW1.dir/mergeSort.cpp.o" \
-"CMakeFiles/CHW1.dir/quickSort.cpp.o" \
-"CMakeFiles/CHW1.dir/radixSort.cpp.o" \
-"CMakeFiles/CHW1.dir/selectionSort.cpp.o" \
-"CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o" \
-"CMakeFiles/CHW1.dir/shellShellSort.cpp.o" \
-"CMakeFiles/CHW1.dir/stableCountingSort.cpp.o" \
-"CMakeFiles/CHW1.dir/insertionSort.cpp.o" \
-"CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o" \
-"CMakeFiles/CHW1.dir/utils.cpp.o"
+"CMakeFiles/CHW1.dir/BubbleSort.cpp.o" \
+"CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o" \
+"CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o" \
+"CMakeFiles/CHW1.dir/HeapSort.cpp.o" \
+"CMakeFiles/CHW1.dir/MergeSort.cpp.o" \
+"CMakeFiles/CHW1.dir/QuickSort.cpp.o" \
+"CMakeFiles/CHW1.dir/RadixSort.cpp.o" \
+"CMakeFiles/CHW1.dir/SelectionSort.cpp.o" \
+"CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o" \
+"CMakeFiles/CHW1.dir/ShellShellSort.cpp.o" \
+"CMakeFiles/CHW1.dir/StableCountingSort.cpp.o" \
+"CMakeFiles/CHW1.dir/InsertionSort.cpp.o" \
+"CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o" \
+"CMakeFiles/CHW1.dir/Utils.cpp.o"
 
 # External object files for target CHW1
 CHW1_EXTERNAL_OBJECTS =
 
 CHW1: CMakeFiles/CHW1.dir/tester.cpp.o
-CHW1: CMakeFiles/CHW1.dir/bubbleSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o
-CHW1: CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o
-CHW1: CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o
-CHW1: CMakeFiles/CHW1.dir/heapSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/mergeSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/quickSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/radixSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/selectionSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/shellShellSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/stableCountingSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/insertionSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o
-CHW1: CMakeFiles/CHW1.dir/utils.cpp.o
+CHW1: CMakeFiles/CHW1.dir/BubbleSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o
+CHW1: CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o
+CHW1: CMakeFiles/CHW1.dir/HeapSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/MergeSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/QuickSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/RadixSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/SelectionSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/ShellShellSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/StableCountingSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/InsertionSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o
+CHW1: CMakeFiles/CHW1.dir/Utils.cpp.o
 CHW1: CMakeFiles/CHW1.dir/build.make
 CHW1: CMakeFiles/CHW1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable CHW1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable CHW1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CHW1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

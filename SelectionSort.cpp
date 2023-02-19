@@ -4,9 +4,9 @@ void selectionSortOperations(std::vector<int> &array, size_t n, int64_t &operati
     operations = 0;
     for (size_t i = 0; i < n - 1; ++i) {
         size_t min = i;
-        ++operations;
+        operations += 3; // 2 из цикла, 1 присваивание
         for (size_t j = i + 1; j < n; ++j) {
-            ++operations;
+            operations += 5; // 2 из цикла, 1 сравнение, 2 обращения
             if (array[j] < array[min]) {
                 min = j;
                 ++operations;
@@ -14,7 +14,7 @@ void selectionSortOperations(std::vector<int> &array, size_t n, int64_t &operati
         }
 
         std::swap(array[i], array[min]);
-        ++operations;
+        operations += 3;
     }
 }
 

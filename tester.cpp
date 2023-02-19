@@ -1,5 +1,10 @@
 #include "chw1.h"
 
+// АиСД-2, 2023, задание 5
+// Андронов Владислав Артёмович, БПИ-213
+// CLion JetBrains 2021.3.4
+// сделано всё
+
 class Tester {
 public:
     Tester() {
@@ -18,7 +23,7 @@ public:
         };
 
         sortsAccordance = {
-                {selectionSort,          "selectionSort"         },
+                {selectionSort,         "selectionSort"         },
                 {bubbleSort,            "bubbleSort"            },
                 {bubbleSortAiverson1,   "bubbleSortAiverson1"   },
                 {bubbleSortAiversonAll, "bubbleSortAiversonAll" },
@@ -55,15 +60,8 @@ public:
 
     void startTests() {
         for (int i = 0; i < sorts.size(); ++i) {
-            std::cout << "Time tests completed: " << (i * 100) / sorts.size() << "%" << std::endl;
-            for (auto size : SMALL_SIZES) {
-                for (size_t j = 0; j < origins.size(); ++j) {
-                    operationsTest(operationsCheckers[i], origins[j], size, j);
-                    batchOfTimeTests(sorts[i], origins[j], size, j);
-                }
-            }
-
-            for (auto size : LARGE_SIZES) {
+            std::cout << "Tests completed: " << (i * 100) / sorts.size() << "%" << std::endl;
+            for (auto size : SIZES) {
                 for (size_t j = 0; j < origins.size(); ++j) {
                     operationsTest(operationsCheckers[i], origins[j], size, j);
                     batchOfTimeTests(sorts[i], origins[j], size, j);

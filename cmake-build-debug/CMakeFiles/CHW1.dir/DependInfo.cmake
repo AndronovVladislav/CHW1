@@ -4,22 +4,21 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/DatasetGenerator.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/binaryInsertionSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/bubbleSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/bubbleSortIverson1_2.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/heapSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/heapSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/insertionSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/insertionSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/mergeSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/mergeSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/quickSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/quickSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/radixSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/radixSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/selectionSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/selectionSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/shellCiuraSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/shellShellSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/shellShellSort.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/stableCountingSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/stableCountingSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/BinaryInsertionSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/BubbleSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiverson1.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/BubbleSortAiversonAll.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/HeapSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/HeapSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/InsertionSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/InsertionSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/MergeSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/MergeSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/QuickSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/QuickSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/RadixSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/RadixSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/SelectionSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/SelectionSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/ShellCiuraSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/ShellShellSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/ShellShellSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/StableCountingSort.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/StableCountingSort.cpp.o"
+  "/mnt/c/Users/Vlad/CLionProjects/CHW1/Utils.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/Utils.cpp.o"
   "/mnt/c/Users/Vlad/CLionProjects/CHW1/tester.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/tester.cpp.o"
-  "/mnt/c/Users/Vlad/CLionProjects/CHW1/utils.cpp" "/mnt/c/Users/Vlad/CLionProjects/CHW1/cmake-build-debug/CMakeFiles/CHW1.dir/utils.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

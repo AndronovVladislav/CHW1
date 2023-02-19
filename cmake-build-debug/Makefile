@@ -123,383 +123,383 @@ CHW1/fast:
 	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/build
 .PHONY : CHW1/fast
 
-DatasetGenerator.o: DatasetGenerator.cpp.o
+BinaryInsertionSort.o: BinaryInsertionSort.cpp.o
 
-.PHONY : DatasetGenerator.o
-
-# target to build an object file
-DatasetGenerator.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/DatasetGenerator.cpp.o
-.PHONY : DatasetGenerator.cpp.o
-
-DatasetGenerator.i: DatasetGenerator.cpp.i
-
-.PHONY : DatasetGenerator.i
-
-# target to preprocess a source file
-DatasetGenerator.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/DatasetGenerator.cpp.i
-.PHONY : DatasetGenerator.cpp.i
-
-DatasetGenerator.s: DatasetGenerator.cpp.s
-
-.PHONY : DatasetGenerator.s
-
-# target to generate assembly for a file
-DatasetGenerator.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/DatasetGenerator.cpp.s
-.PHONY : DatasetGenerator.cpp.s
-
-binaryInsertionSort.o: binaryInsertionSort.cpp.o
-
-.PHONY : binaryInsertionSort.o
+.PHONY : BinaryInsertionSort.o
 
 # target to build an object file
-binaryInsertionSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.o
-.PHONY : binaryInsertionSort.cpp.o
+BinaryInsertionSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.o
+.PHONY : BinaryInsertionSort.cpp.o
 
-binaryInsertionSort.i: binaryInsertionSort.cpp.i
+BinaryInsertionSort.i: BinaryInsertionSort.cpp.i
 
-.PHONY : binaryInsertionSort.i
+.PHONY : BinaryInsertionSort.i
 
 # target to preprocess a source file
-binaryInsertionSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.i
-.PHONY : binaryInsertionSort.cpp.i
+BinaryInsertionSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.i
+.PHONY : BinaryInsertionSort.cpp.i
 
-binaryInsertionSort.s: binaryInsertionSort.cpp.s
+BinaryInsertionSort.s: BinaryInsertionSort.cpp.s
 
-.PHONY : binaryInsertionSort.s
+.PHONY : BinaryInsertionSort.s
 
 # target to generate assembly for a file
-binaryInsertionSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/binaryInsertionSort.cpp.s
-.PHONY : binaryInsertionSort.cpp.s
+BinaryInsertionSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BinaryInsertionSort.cpp.s
+.PHONY : BinaryInsertionSort.cpp.s
 
-bubbleSort.o: bubbleSort.cpp.o
+BubbleSort.o: BubbleSort.cpp.o
 
-.PHONY : bubbleSort.o
+.PHONY : BubbleSort.o
 
 # target to build an object file
-bubbleSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSort.cpp.o
-.PHONY : bubbleSort.cpp.o
+BubbleSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSort.cpp.o
+.PHONY : BubbleSort.cpp.o
 
-bubbleSort.i: bubbleSort.cpp.i
+BubbleSort.i: BubbleSort.cpp.i
 
-.PHONY : bubbleSort.i
+.PHONY : BubbleSort.i
 
 # target to preprocess a source file
-bubbleSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSort.cpp.i
-.PHONY : bubbleSort.cpp.i
+BubbleSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSort.cpp.i
+.PHONY : BubbleSort.cpp.i
 
-bubbleSort.s: bubbleSort.cpp.s
+BubbleSort.s: BubbleSort.cpp.s
 
-.PHONY : bubbleSort.s
+.PHONY : BubbleSort.s
 
 # target to generate assembly for a file
-bubbleSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSort.cpp.s
-.PHONY : bubbleSort.cpp.s
+BubbleSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSort.cpp.s
+.PHONY : BubbleSort.cpp.s
 
-bubbleSortIverson1.o: bubbleSortIverson1.cpp.o
+BubbleSortAiverson1.o: BubbleSortAiverson1.cpp.o
 
-.PHONY : bubbleSortIverson1.o
+.PHONY : BubbleSortAiverson1.o
 
 # target to build an object file
-bubbleSortIverson1.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.o
-.PHONY : bubbleSortIverson1.cpp.o
+BubbleSortAiverson1.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.o
+.PHONY : BubbleSortAiverson1.cpp.o
 
-bubbleSortIverson1.i: bubbleSortIverson1.cpp.i
+BubbleSortAiverson1.i: BubbleSortAiverson1.cpp.i
 
-.PHONY : bubbleSortIverson1.i
+.PHONY : BubbleSortAiverson1.i
 
 # target to preprocess a source file
-bubbleSortIverson1.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.i
-.PHONY : bubbleSortIverson1.cpp.i
+BubbleSortAiverson1.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.i
+.PHONY : BubbleSortAiverson1.cpp.i
 
-bubbleSortIverson1.s: bubbleSortIverson1.cpp.s
+BubbleSortAiverson1.s: BubbleSortAiverson1.cpp.s
 
-.PHONY : bubbleSortIverson1.s
+.PHONY : BubbleSortAiverson1.s
 
 # target to generate assembly for a file
-bubbleSortIverson1.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSortIverson1.cpp.s
-.PHONY : bubbleSortIverson1.cpp.s
+BubbleSortAiverson1.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSortAiverson1.cpp.s
+.PHONY : BubbleSortAiverson1.cpp.s
 
-bubbleSortIverson1_2.o: bubbleSortIverson1_2.cpp.o
+BubbleSortAiversonAll.o: BubbleSortAiversonAll.cpp.o
 
-.PHONY : bubbleSortIverson1_2.o
+.PHONY : BubbleSortAiversonAll.o
 
 # target to build an object file
-bubbleSortIverson1_2.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.o
-.PHONY : bubbleSortIverson1_2.cpp.o
+BubbleSortAiversonAll.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.o
+.PHONY : BubbleSortAiversonAll.cpp.o
 
-bubbleSortIverson1_2.i: bubbleSortIverson1_2.cpp.i
+BubbleSortAiversonAll.i: BubbleSortAiversonAll.cpp.i
 
-.PHONY : bubbleSortIverson1_2.i
+.PHONY : BubbleSortAiversonAll.i
 
 # target to preprocess a source file
-bubbleSortIverson1_2.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.i
-.PHONY : bubbleSortIverson1_2.cpp.i
+BubbleSortAiversonAll.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.i
+.PHONY : BubbleSortAiversonAll.cpp.i
 
-bubbleSortIverson1_2.s: bubbleSortIverson1_2.cpp.s
+BubbleSortAiversonAll.s: BubbleSortAiversonAll.cpp.s
 
-.PHONY : bubbleSortIverson1_2.s
+.PHONY : BubbleSortAiversonAll.s
 
 # target to generate assembly for a file
-bubbleSortIverson1_2.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/bubbleSortIverson1_2.cpp.s
-.PHONY : bubbleSortIverson1_2.cpp.s
+BubbleSortAiversonAll.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/BubbleSortAiversonAll.cpp.s
+.PHONY : BubbleSortAiversonAll.cpp.s
 
-heapSort.o: heapSort.cpp.o
+HeapSort.o: HeapSort.cpp.o
 
-.PHONY : heapSort.o
+.PHONY : HeapSort.o
 
 # target to build an object file
-heapSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/heapSort.cpp.o
-.PHONY : heapSort.cpp.o
+HeapSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/HeapSort.cpp.o
+.PHONY : HeapSort.cpp.o
 
-heapSort.i: heapSort.cpp.i
+HeapSort.i: HeapSort.cpp.i
 
-.PHONY : heapSort.i
+.PHONY : HeapSort.i
 
 # target to preprocess a source file
-heapSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/heapSort.cpp.i
-.PHONY : heapSort.cpp.i
+HeapSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/HeapSort.cpp.i
+.PHONY : HeapSort.cpp.i
 
-heapSort.s: heapSort.cpp.s
+HeapSort.s: HeapSort.cpp.s
 
-.PHONY : heapSort.s
+.PHONY : HeapSort.s
 
 # target to generate assembly for a file
-heapSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/heapSort.cpp.s
-.PHONY : heapSort.cpp.s
+HeapSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/HeapSort.cpp.s
+.PHONY : HeapSort.cpp.s
 
-insertionSort.o: insertionSort.cpp.o
+InsertionSort.o: InsertionSort.cpp.o
 
-.PHONY : insertionSort.o
+.PHONY : InsertionSort.o
 
 # target to build an object file
-insertionSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/insertionSort.cpp.o
-.PHONY : insertionSort.cpp.o
+InsertionSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/InsertionSort.cpp.o
+.PHONY : InsertionSort.cpp.o
 
-insertionSort.i: insertionSort.cpp.i
+InsertionSort.i: InsertionSort.cpp.i
 
-.PHONY : insertionSort.i
+.PHONY : InsertionSort.i
 
 # target to preprocess a source file
-insertionSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/insertionSort.cpp.i
-.PHONY : insertionSort.cpp.i
+InsertionSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/InsertionSort.cpp.i
+.PHONY : InsertionSort.cpp.i
 
-insertionSort.s: insertionSort.cpp.s
+InsertionSort.s: InsertionSort.cpp.s
 
-.PHONY : insertionSort.s
+.PHONY : InsertionSort.s
 
 # target to generate assembly for a file
-insertionSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/insertionSort.cpp.s
-.PHONY : insertionSort.cpp.s
+InsertionSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/InsertionSort.cpp.s
+.PHONY : InsertionSort.cpp.s
 
-mergeSort.o: mergeSort.cpp.o
+MergeSort.o: MergeSort.cpp.o
 
-.PHONY : mergeSort.o
+.PHONY : MergeSort.o
 
 # target to build an object file
-mergeSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/mergeSort.cpp.o
-.PHONY : mergeSort.cpp.o
+MergeSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/MergeSort.cpp.o
+.PHONY : MergeSort.cpp.o
 
-mergeSort.i: mergeSort.cpp.i
+MergeSort.i: MergeSort.cpp.i
 
-.PHONY : mergeSort.i
+.PHONY : MergeSort.i
 
 # target to preprocess a source file
-mergeSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/mergeSort.cpp.i
-.PHONY : mergeSort.cpp.i
+MergeSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/MergeSort.cpp.i
+.PHONY : MergeSort.cpp.i
 
-mergeSort.s: mergeSort.cpp.s
+MergeSort.s: MergeSort.cpp.s
 
-.PHONY : mergeSort.s
+.PHONY : MergeSort.s
 
 # target to generate assembly for a file
-mergeSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/mergeSort.cpp.s
-.PHONY : mergeSort.cpp.s
+MergeSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/MergeSort.cpp.s
+.PHONY : MergeSort.cpp.s
 
-quickSort.o: quickSort.cpp.o
+QuickSort.o: QuickSort.cpp.o
 
-.PHONY : quickSort.o
+.PHONY : QuickSort.o
 
 # target to build an object file
-quickSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/quickSort.cpp.o
-.PHONY : quickSort.cpp.o
+QuickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/QuickSort.cpp.o
+.PHONY : QuickSort.cpp.o
 
-quickSort.i: quickSort.cpp.i
+QuickSort.i: QuickSort.cpp.i
 
-.PHONY : quickSort.i
+.PHONY : QuickSort.i
 
 # target to preprocess a source file
-quickSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/quickSort.cpp.i
-.PHONY : quickSort.cpp.i
+QuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/QuickSort.cpp.i
+.PHONY : QuickSort.cpp.i
 
-quickSort.s: quickSort.cpp.s
+QuickSort.s: QuickSort.cpp.s
 
-.PHONY : quickSort.s
+.PHONY : QuickSort.s
 
 # target to generate assembly for a file
-quickSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/quickSort.cpp.s
-.PHONY : quickSort.cpp.s
+QuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/QuickSort.cpp.s
+.PHONY : QuickSort.cpp.s
 
-radixSort.o: radixSort.cpp.o
+RadixSort.o: RadixSort.cpp.o
 
-.PHONY : radixSort.o
+.PHONY : RadixSort.o
 
 # target to build an object file
-radixSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/radixSort.cpp.o
-.PHONY : radixSort.cpp.o
+RadixSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/RadixSort.cpp.o
+.PHONY : RadixSort.cpp.o
 
-radixSort.i: radixSort.cpp.i
+RadixSort.i: RadixSort.cpp.i
 
-.PHONY : radixSort.i
+.PHONY : RadixSort.i
 
 # target to preprocess a source file
-radixSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/radixSort.cpp.i
-.PHONY : radixSort.cpp.i
+RadixSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/RadixSort.cpp.i
+.PHONY : RadixSort.cpp.i
 
-radixSort.s: radixSort.cpp.s
+RadixSort.s: RadixSort.cpp.s
 
-.PHONY : radixSort.s
+.PHONY : RadixSort.s
 
 # target to generate assembly for a file
-radixSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/radixSort.cpp.s
-.PHONY : radixSort.cpp.s
+RadixSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/RadixSort.cpp.s
+.PHONY : RadixSort.cpp.s
 
-selectionSort.o: selectionSort.cpp.o
+SelectionSort.o: SelectionSort.cpp.o
 
-.PHONY : selectionSort.o
+.PHONY : SelectionSort.o
 
 # target to build an object file
-selectionSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/selectionSort.cpp.o
-.PHONY : selectionSort.cpp.o
+SelectionSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/SelectionSort.cpp.o
+.PHONY : SelectionSort.cpp.o
 
-selectionSort.i: selectionSort.cpp.i
+SelectionSort.i: SelectionSort.cpp.i
 
-.PHONY : selectionSort.i
+.PHONY : SelectionSort.i
 
 # target to preprocess a source file
-selectionSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/selectionSort.cpp.i
-.PHONY : selectionSort.cpp.i
+SelectionSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/SelectionSort.cpp.i
+.PHONY : SelectionSort.cpp.i
 
-selectionSort.s: selectionSort.cpp.s
+SelectionSort.s: SelectionSort.cpp.s
 
-.PHONY : selectionSort.s
+.PHONY : SelectionSort.s
 
 # target to generate assembly for a file
-selectionSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/selectionSort.cpp.s
-.PHONY : selectionSort.cpp.s
+SelectionSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/SelectionSort.cpp.s
+.PHONY : SelectionSort.cpp.s
 
-shellCiuraSort.o: shellCiuraSort.cpp.o
+ShellCiuraSort.o: ShellCiuraSort.cpp.o
 
-.PHONY : shellCiuraSort.o
+.PHONY : ShellCiuraSort.o
 
 # target to build an object file
-shellCiuraSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/shellCiuraSort.cpp.o
-.PHONY : shellCiuraSort.cpp.o
+ShellCiuraSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.o
+.PHONY : ShellCiuraSort.cpp.o
 
-shellCiuraSort.i: shellCiuraSort.cpp.i
+ShellCiuraSort.i: ShellCiuraSort.cpp.i
 
-.PHONY : shellCiuraSort.i
+.PHONY : ShellCiuraSort.i
 
 # target to preprocess a source file
-shellCiuraSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/shellCiuraSort.cpp.i
-.PHONY : shellCiuraSort.cpp.i
+ShellCiuraSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.i
+.PHONY : ShellCiuraSort.cpp.i
 
-shellCiuraSort.s: shellCiuraSort.cpp.s
+ShellCiuraSort.s: ShellCiuraSort.cpp.s
 
-.PHONY : shellCiuraSort.s
+.PHONY : ShellCiuraSort.s
 
 # target to generate assembly for a file
-shellCiuraSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/shellCiuraSort.cpp.s
-.PHONY : shellCiuraSort.cpp.s
+ShellCiuraSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/ShellCiuraSort.cpp.s
+.PHONY : ShellCiuraSort.cpp.s
 
-shellShellSort.o: shellShellSort.cpp.o
+ShellShellSort.o: ShellShellSort.cpp.o
 
-.PHONY : shellShellSort.o
+.PHONY : ShellShellSort.o
 
 # target to build an object file
-shellShellSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/shellShellSort.cpp.o
-.PHONY : shellShellSort.cpp.o
+ShellShellSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/ShellShellSort.cpp.o
+.PHONY : ShellShellSort.cpp.o
 
-shellShellSort.i: shellShellSort.cpp.i
+ShellShellSort.i: ShellShellSort.cpp.i
 
-.PHONY : shellShellSort.i
+.PHONY : ShellShellSort.i
 
 # target to preprocess a source file
-shellShellSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/shellShellSort.cpp.i
-.PHONY : shellShellSort.cpp.i
+ShellShellSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/ShellShellSort.cpp.i
+.PHONY : ShellShellSort.cpp.i
 
-shellShellSort.s: shellShellSort.cpp.s
+ShellShellSort.s: ShellShellSort.cpp.s
 
-.PHONY : shellShellSort.s
+.PHONY : ShellShellSort.s
 
 # target to generate assembly for a file
-shellShellSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/shellShellSort.cpp.s
-.PHONY : shellShellSort.cpp.s
+ShellShellSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/ShellShellSort.cpp.s
+.PHONY : ShellShellSort.cpp.s
 
-stableCountingSort.o: stableCountingSort.cpp.o
+StableCountingSort.o: StableCountingSort.cpp.o
 
-.PHONY : stableCountingSort.o
+.PHONY : StableCountingSort.o
 
 # target to build an object file
-stableCountingSort.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/stableCountingSort.cpp.o
-.PHONY : stableCountingSort.cpp.o
+StableCountingSort.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/StableCountingSort.cpp.o
+.PHONY : StableCountingSort.cpp.o
 
-stableCountingSort.i: stableCountingSort.cpp.i
+StableCountingSort.i: StableCountingSort.cpp.i
 
-.PHONY : stableCountingSort.i
+.PHONY : StableCountingSort.i
 
 # target to preprocess a source file
-stableCountingSort.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/stableCountingSort.cpp.i
-.PHONY : stableCountingSort.cpp.i
+StableCountingSort.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/StableCountingSort.cpp.i
+.PHONY : StableCountingSort.cpp.i
 
-stableCountingSort.s: stableCountingSort.cpp.s
+StableCountingSort.s: StableCountingSort.cpp.s
 
-.PHONY : stableCountingSort.s
+.PHONY : StableCountingSort.s
 
 # target to generate assembly for a file
-stableCountingSort.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/stableCountingSort.cpp.s
-.PHONY : stableCountingSort.cpp.s
+StableCountingSort.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/StableCountingSort.cpp.s
+.PHONY : StableCountingSort.cpp.s
+
+Utils.o: Utils.cpp.o
+
+.PHONY : Utils.o
+
+# target to build an object file
+Utils.cpp.o:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/Utils.cpp.o
+.PHONY : Utils.cpp.o
+
+Utils.i: Utils.cpp.i
+
+.PHONY : Utils.i
+
+# target to preprocess a source file
+Utils.cpp.i:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/Utils.cpp.i
+.PHONY : Utils.cpp.i
+
+Utils.s: Utils.cpp.s
+
+.PHONY : Utils.s
+
+# target to generate assembly for a file
+Utils.cpp.s:
+	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/Utils.cpp.s
+.PHONY : Utils.cpp.s
 
 tester.o: tester.cpp.o
 
@@ -528,33 +528,6 @@ tester.cpp.s:
 	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/tester.cpp.s
 .PHONY : tester.cpp.s
 
-utils.o: utils.cpp.o
-
-.PHONY : utils.o
-
-# target to build an object file
-utils.cpp.o:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/utils.cpp.o
-.PHONY : utils.cpp.o
-
-utils.i: utils.cpp.i
-
-.PHONY : utils.i
-
-# target to preprocess a source file
-utils.cpp.i:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/utils.cpp.i
-.PHONY : utils.cpp.i
-
-utils.s: utils.cpp.s
-
-.PHONY : utils.s
-
-# target to generate assembly for a file
-utils.cpp.s:
-	$(MAKE) -f CMakeFiles/CHW1.dir/build.make CMakeFiles/CHW1.dir/utils.cpp.s
-.PHONY : utils.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -564,54 +537,51 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... CHW1"
-	@echo "... DatasetGenerator.o"
-	@echo "... DatasetGenerator.i"
-	@echo "... DatasetGenerator.s"
-	@echo "... binaryInsertionSort.o"
-	@echo "... binaryInsertionSort.i"
-	@echo "... binaryInsertionSort.s"
-	@echo "... bubbleSort.o"
-	@echo "... bubbleSort.i"
-	@echo "... bubbleSort.s"
-	@echo "... bubbleSortIverson1.o"
-	@echo "... bubbleSortIverson1.i"
-	@echo "... bubbleSortIverson1.s"
-	@echo "... bubbleSortIverson1_2.o"
-	@echo "... bubbleSortIverson1_2.i"
-	@echo "... bubbleSortIverson1_2.s"
-	@echo "... heapSort.o"
-	@echo "... heapSort.i"
-	@echo "... heapSort.s"
-	@echo "... insertionSort.o"
-	@echo "... insertionSort.i"
-	@echo "... insertionSort.s"
-	@echo "... mergeSort.o"
-	@echo "... mergeSort.i"
-	@echo "... mergeSort.s"
-	@echo "... quickSort.o"
-	@echo "... quickSort.i"
-	@echo "... quickSort.s"
-	@echo "... radixSort.o"
-	@echo "... radixSort.i"
-	@echo "... radixSort.s"
-	@echo "... selectionSort.o"
-	@echo "... selectionSort.i"
-	@echo "... selectionSort.s"
-	@echo "... shellCiuraSort.o"
-	@echo "... shellCiuraSort.i"
-	@echo "... shellCiuraSort.s"
-	@echo "... shellShellSort.o"
-	@echo "... shellShellSort.i"
-	@echo "... shellShellSort.s"
-	@echo "... stableCountingSort.o"
-	@echo "... stableCountingSort.i"
-	@echo "... stableCountingSort.s"
+	@echo "... BinaryInsertionSort.o"
+	@echo "... BinaryInsertionSort.i"
+	@echo "... BinaryInsertionSort.s"
+	@echo "... BubbleSort.o"
+	@echo "... BubbleSort.i"
+	@echo "... BubbleSort.s"
+	@echo "... BubbleSortAiverson1.o"
+	@echo "... BubbleSortAiverson1.i"
+	@echo "... BubbleSortAiverson1.s"
+	@echo "... BubbleSortAiversonAll.o"
+	@echo "... BubbleSortAiversonAll.i"
+	@echo "... BubbleSortAiversonAll.s"
+	@echo "... HeapSort.o"
+	@echo "... HeapSort.i"
+	@echo "... HeapSort.s"
+	@echo "... InsertionSort.o"
+	@echo "... InsertionSort.i"
+	@echo "... InsertionSort.s"
+	@echo "... MergeSort.o"
+	@echo "... MergeSort.i"
+	@echo "... MergeSort.s"
+	@echo "... QuickSort.o"
+	@echo "... QuickSort.i"
+	@echo "... QuickSort.s"
+	@echo "... RadixSort.o"
+	@echo "... RadixSort.i"
+	@echo "... RadixSort.s"
+	@echo "... SelectionSort.o"
+	@echo "... SelectionSort.i"
+	@echo "... SelectionSort.s"
+	@echo "... ShellCiuraSort.o"
+	@echo "... ShellCiuraSort.i"
+	@echo "... ShellCiuraSort.s"
+	@echo "... ShellShellSort.o"
+	@echo "... ShellShellSort.i"
+	@echo "... ShellShellSort.s"
+	@echo "... StableCountingSort.o"
+	@echo "... StableCountingSort.i"
+	@echo "... StableCountingSort.s"
+	@echo "... Utils.o"
+	@echo "... Utils.i"
+	@echo "... Utils.s"
 	@echo "... tester.o"
 	@echo "... tester.i"
 	@echo "... tester.s"
-	@echo "... utils.o"
-	@echo "... utils.i"
-	@echo "... utils.s"
 .PHONY : help
 
 
